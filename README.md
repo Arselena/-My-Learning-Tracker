@@ -31,7 +31,7 @@
 
 |            Status           |   Year   | Course                                                          |                Tutor                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-|                             | Jan 2022 | Android-разработчик                                             | https://skillfactory.ru/                    |
+|                             | Jan 2022 | Android-разработчик                                             | https://skillfactory.ru/python-developer    |
 | ![Completed][Completed]     | Nov 2021 | Python для начинающих                                           | https://epos.permkrai.ru/perm-itnetwork     |
 | ![Completed][Completed]     | Sept2021 | Второй курс по алгоритмам/структурам данных. Деревья-графы.     | https://vk.com/lambda_brain                 |
 | ![Completed][Completed]     | June2021 | Ясный Код. курс по выработке хорошего стиля кодирования         | https://vk.com/lambda_brain                 |
